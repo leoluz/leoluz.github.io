@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Ruby - Sugestoes de Leitura 
-summary: Algumas indicações de leitura para estudar Ruby.
+description: Algumas indicações de leitura para estudar Ruby.
+comments: true
 ---
 
 * Design Patterns in Ruby, Addison-Wesley (2008)
