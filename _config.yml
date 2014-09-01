@@ -3,7 +3,7 @@ description:      "~/Dev/Depot $ _"
 logo:             icon.png
 disqus_shortname: leoluzblog
 share:            true
-url:        	  http://blog.leoluz.me #Start Jekyll with: jekyll serve --baseurl ''
+#url:        	  http://blog.leoluz.me #Start Jekyll with: jekyll serve --baseurl ''
 
 # Owner/author information
 owner:
