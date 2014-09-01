@@ -16,7 +16,7 @@ Yet another attempt to maintain a blog. :)
 
 # History
 
-In 2008 I created my first blog at Wordpress containing tech general topics posts in my mother tongue (pt_br). I maintained the blog for almost 2 years and I was aways pushing my self to come up with new articles and new ideas. To be honest, it was pretty boring! I was dedicating a lot of my time to it and I wasn't having fun at all. I was enjoying more the activities related with the blog maintenance than with the writing itself.
+In 2008 I created my first blog at Wordpress containing tech general topics posts in my mother tongue (pt_br). I maintained the blog for almost 2 years and I was aways pushing myself to come up with new articles and new ideas. To be honest, it was pretty boring! I was dedicating a lot of my time to it and I wasn't having fun at all. I was enjoying more the activities related with the blog maintenance than with the writing itself.
 
 # Motivation
 
