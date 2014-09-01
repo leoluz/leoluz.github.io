@@ -1,7 +1,11 @@
 ---
 layout: post
-title: Ruby - Sugestoes de Leitura 
-description: Algumas indicações de leitura para estudar Ruby.
+title: "Ruby - Sugestoes de Leitura"
+description: "Algumas indicações de leitura para estudar Ruby."
+headline:
+imagefeature:
+mathjax:
+chart:
 comments: true
 ---
 
@@ -11,4 +15,3 @@ comments: true
 * Pro Active Record, Apress (2007)
 * Refactoring In Ruby-Oct2009
 * Ruby by Example - Concepts and Code, No Starch Press (2007)
-
