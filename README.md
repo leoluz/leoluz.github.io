@@ -3,4 +3,4 @@ DevDepot
 
 My Jekyll based blog!
 
-- Leonardo Luz Almeida
+- http://blog.leoluz.me
