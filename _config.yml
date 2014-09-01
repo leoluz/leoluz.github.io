@@ -1,12 +1,9 @@
 title:            LeoLuz
-description:      "Words repository"
+description:      "~/Dev/Depot $ _"
 logo:             icon.png
 disqus_shortname: leoluzblog
 share:            true
-# Change url to your domain. Leave localhost server or blank when working locally.
-# or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
-# whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:        	  http://blog.leoluz.me
+url:        	  http://blog.leoluz.me #Start Jekyll with: jekyll serve --baseurl ''
 
 # Owner/author information
 owner:
@@ -17,10 +14,7 @@ owner:
   description:    "\"...but someday we ought to be able to... because it has already begun.\""
   # Social networking links used in footer. Update and remove as you like.
   twitter:        leo_luz
-  #facebook:       hmfaysal
   github:         leoluz
-  #instagram:      hmfaysal
-  # For Google Authorship https://plus.google.com/authorship
   google_plus:    https://plus.google.com/u/0/110576876959945092152
 
 # Analytics and webmaster tools stuff goes here
