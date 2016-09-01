@@ -3,7 +3,7 @@ description:      "~/Dev/Depot $ _"
 logo:             icon.png
 disqus_shortname: leoluzblog
 share:            true
-url:        	  http://blog.leoluz.me #Start Jekyll with: jekyll serve --baseurl ''
+url:        	  http://blog.leoluz.online #Start Jekyll with: jekyll serve --baseurl ''
 
 # Owner/author information
 owner:
@@ -64,8 +64,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://blog.leoluz.me'
-  relativeLinks: 'http://blog.leoluz.me/links.jsonp'
+  siteurl: 'http://blog.leoluz.online'
+  relativeLinks: 'http://blog.leoluz.online/links.jsonp'
   media: 'images'
   metadata:
     _posts:
