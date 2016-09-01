@@ -3,7 +3,6 @@ layout: post
 title: Fresh Start
 description: "A fresh start in the blog scene."
 headline:
-imagefeature:
 modified: 2014-09-01
 category: articles
 tags: [first, fresh start]
