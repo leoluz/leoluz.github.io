@@ -3,7 +3,7 @@ description:      "~/Dev/Depot $ _"
 logo:             icon.png
 disqus_shortname: leoluzblog
 share:            true
-url:        	  http://blog.leoluz.online #Start Jekyll with: jekyll serve --baseurl ''
+url:        	  http://leoluz.github.io #Start Jekyll with: jekyll serve --baseurl ''
 
 # Owner/author information
 owner:
@@ -15,7 +15,6 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        leo_luz
   github:         leoluz
-  google_plus:    https://plus.google.com/u/0/110576876959945092152
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-54377304-1
@@ -64,8 +63,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://blog.leoluz.online'
-  relativeLinks: 'http://blog.leoluz.online/links.jsonp'
+  siteurl: 'http://leoluz.github.io'
+  relativeLinks: 'http://leoluz.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:
